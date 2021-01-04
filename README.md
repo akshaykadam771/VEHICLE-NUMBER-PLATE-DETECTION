@@ -10,9 +10,11 @@
 - For accurate results Image size should be minimum of **800 x 600**.
 - Supported image file formats are **".PNG"**,**".JPG"**,**".JPEG"**.
 
-## 🎯 Inference demo
+
 ## :movie_camera: Video Link :-
 - https://www.linkedin.com/feed/update/urn:li:activity:6704622376937771008/
+
+## 🎯 Inference demo
 
 ![vec1](https://user-images.githubusercontent.com/62059604/103498966-7b7a9e00-4e6c-11eb-84ee-daa1ce148eaf.png)
 ![vec2](https://user-images.githubusercontent.com/62059604/103498974-8a615080-4e6c-11eb-8a0c-e9eb68413be8.png)
