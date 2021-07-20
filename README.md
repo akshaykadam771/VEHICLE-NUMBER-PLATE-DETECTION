@@ -12,7 +12,7 @@
 
 
 ## :movie_camera: Video Link :-
-- https://www.linkedin.com/feed/update/urn:li:activity:6704622376937771008/
+- https://youtu.be/n9W2DmQjIoc
 
 ## 🎯 Inference demo
 
